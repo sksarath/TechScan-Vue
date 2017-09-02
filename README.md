@@ -38,5 +38,5 @@ For detailed explanation on how things work, checkout the [guide](http://vuejs-t
   * Profile
 ![profile](https://user-images.githubusercontent.com/7887699/29996734-c22591a0-9021-11e7-99ee-827f387e21bf.png)
 
-  *Responsive
+  * Responsive
 ![responsive](https://user-images.githubusercontent.com/7887699/29996743-eb269ca2-9021-11e7-98ef-0bb5c5c3bd19.png)
