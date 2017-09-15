@@ -1,6 +1,5 @@
 <template>
   <div class="indiv_item">
-    <!-- {{data}} -->
     <div class="info">
         <i class="fa fa-github-alt" aria-hidden="true"></i>
         <label class="name">{{repo.full_name}}</label>

@@ -11,7 +11,7 @@ import appheader from '@/components/header';
 import appfooter from '@/components/footer';
 import maincontent from '@/components/maincontent';
 export default {
-  name: 'hello',
+  name: 'Home',
   data () {
     return {
       msg: 'Welcome to Your Vue.js App'

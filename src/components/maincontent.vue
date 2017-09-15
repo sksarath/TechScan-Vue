@@ -2,7 +2,7 @@
   <div class="main-layout max-width">
     <div class="left-container">
       <div class="">
-        <router-link class="indiv-item" v-for="(language,key) in languages" :to="`/repositories/`+language.link" :data-id="key" data-link="`/repositories/`+language.link">
+        <router-link class="indiv-item" v-for="(language,key) in languages" :to="`/repositories/`+language.link" :data-id="key" :key="language.id" data-link="`/repositories/`+language.link">
           <div v-html="language.icon" class="icon-holder">
           </div>
           {{language.name}}
