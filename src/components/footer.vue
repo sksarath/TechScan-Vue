@@ -1,13 +1,6 @@
 <template>
   <div class="footer">
-      <a href="http://codepen.io/sksarath5" target="_blank">
-          <i class="fa fa-codepen"></i>
-          Codepen
-      </a>
-      <a href="https://www.behance.net/sksarath5" target="_blank">
-          <i class="fa fa-behance"></i>
-          Behance
-      </a>
+      "Always be yourself and have faith in yourself" - Bruce Lee
   </div>
 </template>
 
@@ -30,6 +23,7 @@
     text-align: right;
     color: #FFF;
     float: left;
+    font-size: 12px;
 }
 
 .footer i {
